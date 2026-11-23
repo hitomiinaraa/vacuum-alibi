@@ -1,3 +1,4 @@
+// One line, at most 200 characters.
 // The Vacuum's Alibi entry (Node 22, standard library only).
 // The line is the whole entry: a robot vacuum explains, in flat deadpan,
 // why it missed a spot. One line, nothing else.
